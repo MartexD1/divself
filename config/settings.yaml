@@ -1,0 +1,24 @@
+mongo_db_url: mongodb+srv://hake:hake@cluster2.o40doow.mongodb.net/test
+mongo_cluster_name: testebemgay
+mask_link: true
+mask: https://discord.gg/cdo
+dm_reaction: true
+dm_pin: false
+dm_typing: true
+dm_reply: true
+dm_cooldown: 67
+event_message: true 
+event_voice: true
+reactions: 
+ - ❤️
+ - 😘
+ - 😍
+ - 💓
+ - 💖
+ - 🥰
+
+reply_messages: 
+ - descp incomodo
+ - nao sou bot
+ - Mais é serio entra ai pow pra ajudar pfv.
+ 
